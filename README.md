@@ -4,4 +4,4 @@ When the `UpdateXL` buttom is clicked and there is user input, the excel workshe
 The user can repeat the taking of information and updating the excel sheet severally whilst the app is run.
 The `Clear` button is used to clear the entries at any time.
 
-More functionalities can be add, and refactoring can be done; especially using `OOP paradigm`. 
+More functionalities can be added, and refactoring can be done; especially using `OOP paradigm`. 
